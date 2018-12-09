@@ -11,16 +11,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/python/retail_db/DFramez/DataFrameSample">
+        <entry file="file://$PROJECT_DIR$/../practice_pyspark/src/main/python/retail_db/DFramez/DataFrameSample.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="242">
+              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/Resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/../practice_pyspark/src/main/Resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
               <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
@@ -46,6 +46,8 @@
         <option value="$PROJECT_DIR$/src/main/python/retail_db/DailyRevenue.py" />
         <option value="$PROJECT_DIR$/src/main/python/retail_db/RevenuePerProductionForMonth.py" />
         <option value="$PROJECT_DIR$/src/main/python/retail_db/DFramez/DataFrameSample" />
+        <option value="$PROJECT_DIR$/../practice_pyspark/src/main/python/retail_db/DFramez/DataFrameSample" />
+        <option value="$PROJECT_DIR$/../practice_pyspark/src/main/python/retail_db/DFramez/DataFrameSample.py" />
       </list>
     </option>
   </component>
@@ -65,61 +67,53 @@
         <subPane>
           <expand>
             <path>
-              <item name="practice1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice1" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="PySpark_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PySpark_Practice" type="47feb1d3:ProjectViewModuleNode" />
             </path>
             <path>
-              <item name="practice1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice1" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="practice1" type="462c0819:PsiDirectoryNode" />
+              <item name="PySpark_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PySpark_Practice" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="practice_pyspark" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="practice1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice1" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="practice1" type="462c0819:PsiDirectoryNode" />
+              <item name="PySpark_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PySpark_Practice" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="practice_pyspark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="practice1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice1" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="practice1" type="462c0819:PsiDirectoryNode" />
+              <item name="PySpark_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PySpark_Practice" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="practice_pyspark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="practice1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice1" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="practice1" type="462c0819:PsiDirectoryNode" />
+              <item name="PySpark_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PySpark_Practice" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="practice_pyspark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="practice1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice1" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="practice1" type="462c0819:PsiDirectoryNode" />
+              <item name="PySpark_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PySpark_Practice" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="practice_pyspark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="retail_db" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="practice1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice1" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="practice1" type="462c0819:PsiDirectoryNode" />
+              <item name="PySpark_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PySpark_Practice" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="practice_pyspark" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="retail_db" type="462c0819:PsiDirectoryNode" />
               <item name="DFramez" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="practice1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="practice1" type="47feb1d3:ProjectViewModuleNode" />
-              <item name="practice1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,6 +127,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ram Prakash\PycharmProjects\practice_pyspark\src\main\python\retail_db\RDDz" />
       <recent name="C:\Users\Ram Prakash\PycharmProjects\practice1\src\main\python\retail_db" />
     </key>
   </component>
@@ -148,7 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RevenuePerProductionForMonth">
+  <component name="RunManager" selected="Python.DataFrameSample">
     <configuration name="DailyRevenue" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PySpark_Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,6 +158,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/python/retail_db/DailyRevenue.py" />
       <option name="PARAMETERS" value="dev" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DataFrameSample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PySpark_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../practice_pyspark/src/main/python/retail_db/DFramez" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../practice_pyspark/src/main/python/retail_db/DFramez/DataFrameSample.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -324,9 +340,11 @@
       <item itemvalue="Python.DailyRevenue" />
       <item itemvalue="Python.RevenuePerProductionForMonth" />
       <item itemvalue="Python.temp" />
+      <item itemvalue="Python.DataFrameSample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DataFrameSample" />
         <item itemvalue="Python.RevenuePerProductionForMonth" />
         <item itemvalue="Python.DailyRevenue" />
         <item itemvalue="Python.temp" />
@@ -350,12 +368,12 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33630952" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25892857" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32850242" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46698874" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33977455" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -371,14 +389,14 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/python/temp" />
-    <entry file="file://$PROJECT_DIR$/src/main/python/retail_db/DailyRevenue.py">
+    <entry file="file://$PROJECT_DIR$/../practice_pyspark/src/main/python/retail_db/RDDz/DailyRevenue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="35" selection-start-line="4" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/retail_db/RevenuePerProductionForMonth.py">
+    <entry file="file://$PROJECT_DIR$/../practice_pyspark/src/main/python/retail_db/RDDz/RevenuePerProductionForMonth.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="58" selection-start-line="57" selection-end-line="58" />
@@ -388,17 +406,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/../practice_pyspark/src/main/Resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/python/retail_db/DFramez/DataFrameSample">
+    <entry file="file://$PROJECT_DIR$/../practice_pyspark/src/main/python/retail_db/DFramez/DataFrameSample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="242">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
         </state>
       </provider>
     </entry>
